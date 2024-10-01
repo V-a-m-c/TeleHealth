@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TeleHealth/static/css/main.0d3e699f.css",
+    "main.js": "/TeleHealth/static/js/main.bcc248f5.js",
+    "static/js/453.e4a795b1.chunk.js": "/TeleHealth/static/js/453.e4a795b1.chunk.js",
+    "index.html": "/TeleHealth/index.html",
+    "main.0d3e699f.css.map": "/TeleHealth/static/css/main.0d3e699f.css.map",
+    "main.bcc248f5.js.map": "/TeleHealth/static/js/main.bcc248f5.js.map",
+    "453.e4a795b1.chunk.js.map": "/TeleHealth/static/js/453.e4a795b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d3e699f.css",
+    "static/js/main.bcc248f5.js"
+  ]
+}
