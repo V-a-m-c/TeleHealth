@@ -1,0 +1,46 @@
+/* aboutPage.css */
+
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  border: 2px solid white;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin:0px 20px;
+}
+
+.button:hover {
+  filter: brightness(110%);
+  cursor: pointer;
+}
+
+.button-disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.button-blue {
+  color: black;
+  background-color: pink;
+}
+
+.button-blue:hover {
+  background-color:black;
+  color:pink;
+}
+
+.button-green {
+  color: black;
+  background-color: white;
+  border: 2px solid gray;
+}
+
+.button-green:hover {
+  background-color: black;
+  color:white;
+  border:2px solid yellow;
+}

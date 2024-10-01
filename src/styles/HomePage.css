@@ -1,0 +1,11 @@
+/* src/styles/HomePage.css */
+body.homepage-background {
+    background-image: url('https://e0.pxfuel.com/wallpapers/750/891/desktop-wallpaper-medical-for-medical.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+  }
+  
